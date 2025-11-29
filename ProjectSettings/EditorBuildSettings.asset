@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 579cc99e6590bc4418aabff147df6037
+  - enabled: 1
+    path: Assets/Scenes/BeachScene.unity
+    guid: 3b79b3eeebd28cc4ebb225d1119d11d1
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 5a7b1197f6fa92344972b22d9d2a077d
+  - enabled: 1
+    path: Assets/Scenes/RaftEscape.unity
+    guid: 8305d9cbb097dcf43a51d0a06d1232aa
+  - enabled: 1
+    path: Assets/Scenes/ReturnToHome.unity
+    guid: 08450f93043a3574b8be8272274f6265
+  - enabled: 1
+    path: Assets/Scenes/Underwater Apartment.unity
+    guid: 7ac0bcd0fe070384ca70723d2458d528
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 0af82381b59abed4299b17609523e4a3
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 4419d82f33d36e848b3ed5af4c8da37e, type: 3}
+  m_UseUCBPForAssetBundles: 0
