@@ -1329,7 +1329,7 @@ MonoBehaviour:
   laneY: -2
   spawnZ: 400
   killZ: 210
-  spawnInterval: 0.6
+  spawnInterval: 0.8
   gapZRange: {x: 8, y: 16}
   poolPerPrefab: 2
 --- !u!4 &185495826
@@ -2885,7 +2885,7 @@ MonoBehaviour:
   laneY: -2
   spawnZ: 800
   killZ: 740
-  spawnInterval: 0.6
+  spawnInterval: 0.8
   gapZRange: {x: 8, y: 16}
   poolPerPrefab: 2
 --- !u!4 &454146432
@@ -4454,7 +4454,7 @@ Transform:
   m_GameObject: {fileID: 824285294}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0.7071068, z: -0, w: 0}
-  m_LocalPosition: {x: 37.5339, y: -2.72373, z: -408.4507}
+  m_LocalPosition: {x: 29, y: -2.72373, z: -408.4507}
   m_LocalScale: {x: 4.7716637, y: 1, z: 126.18037}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6704,7 +6704,7 @@ MonoBehaviour:
   laneY: -2
   spawnZ: 750
   killZ: 610
-  spawnInterval: 0.6
+  spawnInterval: 0.8
   gapZRange: {x: 8, y: 16}
   poolPerPrefab: 2
 --- !u!4 &1140891454
@@ -8155,7 +8155,7 @@ MonoBehaviour:
   laneY: -2
   spawnZ: 200
   killZ: -20
-  spawnInterval: 0.75
+  spawnInterval: 1
   gapZRange: {x: 8, y: 16}
   poolPerPrefab: 2
 --- !u!4 &1359196980
@@ -9518,7 +9518,7 @@ MonoBehaviour:
   laneY: -2
   spawnZ: 600
   killZ: 410
-  spawnInterval: 0.6
+  spawnInterval: 0.8
   gapZRange: {x: 8, y: 16}
   poolPerPrefab: 2
 --- !u!4 &1586357073
