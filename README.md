@@ -23,7 +23,7 @@ The playable build on itch.io contains everything.
 ## How to run
 1. Clone the repo  
 2. Open in Unity 2022.3 LTS or newer  
-3. Press Play – all gameplay works as-is
+3. Press Play – all gameplay works as-is (I think, this is my 1st time using Github) 
 
 Built by hauntmegames  
 Game Off 2025 submission  
